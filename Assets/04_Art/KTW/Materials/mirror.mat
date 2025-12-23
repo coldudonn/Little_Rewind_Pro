@@ -114,7 +114,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 1
+    - _Metallic: 0.98
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
@@ -131,8 +131,8 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.7688679, g: 0.93282, b: 1, a: 1}
-    - _Color: {r: 0.76886797, g: 0.93282, b: 1, a: 1}
+    - _BaseColor: {r: 0.5566038, g: 0.43181443, b: 0.33868814, a: 1}
+    - _Color: {r: 0.5566037, g: 0.43181437, b: 0.3386881, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []

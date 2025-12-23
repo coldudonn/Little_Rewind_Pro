@@ -16,8 +16,8 @@ RenderSettings:
   serializedVersion: 10
   m_Fog: 1
   m_FogColor: {r: 1, g: 1, b: 1, a: 1}
-  m_FogMode: 1
-  m_FogDensity: 0.005
+  m_FogMode: 3
+  m_FogDensity: 0.004
   m_LinearFogStart: 26.96
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
@@ -719,7 +719,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1264574163
 Transform:
   m_ObjectHideFlags: 0
@@ -1189,8 +1189,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 500
-  m_Range: 30
+  m_Intensity: 100
+  m_Range: 38
   m_SpotAngle: 154.60774
   m_InnerSpotAngle: 90.03965
   m_CookieSize: 10
@@ -1252,7 +1252,7 @@ Transform:
   m_GameObject: {fileID: 1999488640}
   serializedVersion: 2
   m_LocalRotation: {x: 0.9999972, y: -0, z: -0, w: 0.00237388}
-  m_LocalPosition: {x: -0.37, y: 10.37, z: -11.69}
+  m_LocalPosition: {x: -0.37, y: 17.05, z: -14.02}
   m_LocalScale: {x: 1.5215, y: 1.5215, z: 1.5215}
   m_ConstrainProportionsScale: 0
   m_Children: []
