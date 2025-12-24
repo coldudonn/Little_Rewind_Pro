@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 8cdb1ec1e02b21b4f996d38bc4b5db49
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_3_Bridge_3_AlbedoTransparency
+    second: {fileID: 2800000, guid: 8e46e02ac6f18644287fd9c59872fc41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_3_Bridge_3_MetallicSmoothness
+    second: {fileID: 2800000, guid: 9e369f96c4942ed43b883004ed1d9272, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_3_Bridge_3_Normal
+    second: {fileID: 2800000, guid: 18ca95f9906a1b7419007dd5813dcc89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Last_2_Last_2_AlbedoTransparency
+    second: {fileID: 2800000, guid: 94e16dcbfeb1a6444819bfc3b3e6411e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Last_2_Last_2_MetallicSmoothness
+    second: {fileID: 2800000, guid: 841105fae302fde42a520d90c22ea260, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Last_2_Last_2_Normal
+    second: {fileID: 2800000, guid: 08d05d89df4dbbb49a37872152d057f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: METALIC BLACK_BaseColor
+    second: {fileID: 2800000, guid: 5fbfdc2bd9d6a5e45a08ad1b9f5813ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: METALIC BLACK_Metallic
+    second: {fileID: 2800000, guid: 115da6169d90d13499fe68f954c1b652, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: METALIC BLACK_Normal
+    second: {fileID: 2800000, guid: ac74350d92f215f41baf1de152818c90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: METALIC BLACK_Roughness
+    second: {fileID: 2800000, guid: 63f767a830f9cf247a5b9f5806a504b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: METALLIC_silver
+    second: {fileID: 2800000, guid: 1556bb3260435e64c88ea312e8c44828, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Solo_1_Solo_1_AlbedoTransparency
+    second: {fileID: 2800000, guid: 650b6c0b3a2894f4690550d333808e5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Solo_1_Solo_1_MetallicSmoothness
+    second: {fileID: 2800000, guid: 1a8ee3cb5c21b5d4cbca3f53a71a53a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Solo_1_Solo_1_Normal
+    second: {fileID: 2800000, guid: d4e4d0fc5752418418ec1d0295cb013d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stairs_1_333333_Stairs_1_AlbedoTransparency
+    second: {fileID: 2800000, guid: 2845dc2d99c3b204ea41b6fc003cda4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stairs_1_333333_Stairs_1_MetallicSmoothness
+    second: {fileID: 2800000, guid: de4af1307d007e3479de73f6be72a0bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stairs_1_333333_Stairs_1_Normal
+    second: {fileID: 2800000, guid: a3995e5a48722c4499540b08eb9e367f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bridgewite_1_Bridge_2_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7652904ed9bbcfd45b38fd478f1c26c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bridgewite_1_Bridge_2_MetallicSmoothness
+    second: {fileID: 2800000, guid: d59a813f3c1520745966b9c5945918a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bridgewite_1_Bridge_2_Normal
+    second: {fileID: 2800000, guid: 1ed1e7078235d144b8533d38c22d8bef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drum_2_Drum_1_BaseMap
+    second: {fileID: 2800000, guid: 81cd71a3742c4aa40b06c173d95785e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drum_2_Drum_1_Normal
+    second: {fileID: 2800000, guid: 0b3f4f2fd1fa1834faf4be5384e0a935, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: harp_1_harp_AlbedoTransparency
+    second: {fileID: 2800000, guid: f65d951ca50f3d24e8bb1768f1b96ee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: harp_1_harp_MetallicSmoothness
+    second: {fileID: 2800000, guid: 3b9473a016b56444784d9f8f785488aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: harp_1_harp_Normal
+    second: {fileID: 2800000, guid: 8ccf327a5d93b4c4f97afa98c98665c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: last_1_333333_Last_1_AlbedoTransparency
+    second: {fileID: 2800000, guid: c767414f2f9e59b47858d53473c19433, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: last_1_333333_Last_1_MetallicSmoothness
+    second: {fileID: 2800000, guid: 477e446a84e18674bbda51e65b84243b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: last_1_333333_Last_1_Normal
+    second: {fileID: 2800000, guid: 3a8529e1c40c0b246af76b19621a3819, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal-smudge-smoothness-0
+    second: {fileID: 2800000, guid: dc2673838bfe6fc4b8e256f209758a35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: piano_0534_Piano_1_BaseMap
+    second: {fileID: 2800000, guid: f192000adcd15e44f8ab1e7fa2bb3392, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: piano_0534_Piano_1_Normal
+    second: {fileID: 2800000, guid: 9b55a0e3ba047914ea5d55db695b5072, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plane_divided_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 1dc2ebbfc9f7fea40a150ad1eca0529a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plane_divided_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 29970102ad8e7724e9017b706762ed58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plane_divided_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: 55196d766cd480a46ac59a9555f0a8cb, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
