@@ -1412,8 +1412,28 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 971253358651670940, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 971253358651670940, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.38
+      value: 10.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 971253358651670940, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9862588
+      objectReference: {fileID: 0}
+    - target: {fileID: 971253358651670940, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 971253358651670940, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.16520783
+      objectReference: {fileID: 0}
+    - target: {fileID: 971253358651670940, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -19.019
       objectReference: {fileID: 0}
     - target: {fileID: 1065165422936191175, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
       propertyPath: m_Layer
@@ -1470,6 +1490,14 @@ PrefabInstance:
     - target: {fileID: 4189288390021001454, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4253354288543053176, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4253354288543053176, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4346422276584370881, guid: ab5745bb9cad5ed4390b4a7257747f6c, type: 3}
       propertyPath: m_Layer
@@ -1699,13 +1727,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1744692147}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.018325217, y: -0.026452605, z: 0.0037652075, w: -0.99947506}
-  m_LocalPosition: {x: 38.1, y: 3.1, z: -29.2}
+  m_LocalRotation: {x: 0.014591847, y: 0.052392628, z: -0.0050199823, w: 0.9985074}
+  m_LocalPosition: {x: -30, y: 13.63, z: -29.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -2.088, y: 3.041, z: -0.487}
+  m_LocalEulerAnglesHint: {x: 1.7, y: 6, z: -0.487}
 --- !u!114 &1744692152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1719,13 +1747,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraController
   followTarget: {fileID: 0}
-  rotationSpeed: 2
-  distance: 5
-  minVerticalAngle: -45
-  maxVerticalAngle: 45
-  framingOffset: {x: 0, y: 0}
+  panSpeed: 2.5
+  panLimit: {x: 1.2, y: 0.8}
   invertX: 0
   invertY: 0
+  followSmooth: 12
+  recenterWhenNoInput: 1
+  recenterSpeed: 8
+  lockCursor: 0
 --- !u!1 &1863902492
 GameObject:
   m_ObjectHideFlags: 0
@@ -2165,15 +2194,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 383526630819835414, guid: 7c81d06cce9a8584898694dae99bb7fb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 35.9
+      value: -31.4
       objectReference: {fileID: 0}
     - target: {fileID: 383526630819835414, guid: 7c81d06cce9a8584898694dae99bb7fb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.85
+      value: 9.72
       objectReference: {fileID: 0}
     - target: {fileID: 383526630819835414, guid: 7c81d06cce9a8584898694dae99bb7fb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -14.15
+      value: -9.24
       objectReference: {fileID: 0}
     - target: {fileID: 383526630819835414, guid: 7c81d06cce9a8584898694dae99bb7fb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2209,7 +2238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6126653400606148882, guid: 7c81d06cce9a8584898694dae99bb7fb, type: 3}
       propertyPath: moveSpeed
-      value: 1.5
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
